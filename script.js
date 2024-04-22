@@ -1,10 +1,3 @@
-const url = 'https://api.github.com/users';
-
-fetch(url)
-.then(response => response.json())
-.then(id => console.log(id[0]))
-// https://avatars.githubusercontent.com/u/1?v=4
-
 //  ************* Select Element *************
 
 const userImg = document.querySelector(".profile-img");
