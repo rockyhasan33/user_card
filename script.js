@@ -1,3 +1,9 @@
+//  ======== github url ==========
+
+const url = 'https://api.github.com/users';
+
+// https://avatars.githubusercontent.com/u/1?v=4
+
 //  ************* Select Element *************
 
 const userImg = document.querySelector(".profile-img");
